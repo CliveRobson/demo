@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def tutorialspoint():
-return 'Welcome to TutorialsPoint'
+    return 'Welcome to TutorialsPoint'
 
 #Create the main driver function
 if __name__ == '__main__':
