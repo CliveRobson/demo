@@ -1,5 +1,5 @@
 #Import the flask module
-from flask import import Flask
+from flask import Flask
 
 #Create a Flask constructor. It takes name of the current module as the argument
 app = Flask(__name__)
