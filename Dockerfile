@@ -15,4 +15,4 @@ RUN pip3 install -r requirements.txt
 EXPOSE 5001
 
 #Run the command
-CMD [“python”, “./app.py”]
+CMD [“python”, “app.py”]
